@@ -30,3 +30,4 @@ sea-query-binder = { version = "0", features = [
     "with-mac_address",
     "runtime-async-std-native-tls",
 ] }
+sea-query-attr = "0"
